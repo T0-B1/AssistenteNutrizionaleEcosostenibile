@@ -28,7 +28,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "lint-staged": "^9.4.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "pc-bootstrap4-datetimepicker": "^4.17.50",
     "quagga": "^0.12.1",
     "sass-loader": "^8.0.0",
@@ -58,7 +58,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "lint-staged": "^9.4.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-i18n": "^0.6.0",
     "vue-template-compiler": "^2.6.10"
